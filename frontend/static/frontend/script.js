@@ -21,6 +21,7 @@
 // const variable = 'google.com'
 // console.log(`ata/${variable}/5`)
 
-if (user.name != "None") {
-    console.log('HI')
-}
+// if (user.name != "None") {
+//     console.log('HI')
+// }
+// cons
